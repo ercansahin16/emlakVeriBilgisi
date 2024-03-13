@@ -19,4 +19,4 @@ Seçmek
 Filtreleme seçeneklerini göndermek için "Sorgula" düğmesini tıklayın.
 Seçilen filtrelere göre özelliklerin listesini görüntüleyin.
 ![](Animation3.gif)
-![Örnek GIF](Animation3.gif)
+
